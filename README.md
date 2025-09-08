@@ -27,25 +27,26 @@ Make sure you have the following installed:
 
 ### ⚡ Installation & Setup
 
-   ##1. Clone the repository:
+   ## 1. Clone the repository:
    ```bash
    git clone https://github.com/NoorMustafa4556/A-P-I-Examples-Flutter.git
    cd A-P-I-Examples-Flutter/lib/API\ Course
-Adjust the folder path if your desired example is inside a different subfolder.
+```
+## Adjust the folder path if your desired example is inside a different subfolder.
 
-Install dependencies:
+## Install dependencies:
 
    ```bash
    flutter pub get
  ```
-   ##Run the application:
+   ## Run the application:
   
   ```bash
 flutter run
 ```
 Select your emulator/simulator or connect a physical device.
 
-##📂 Project Structure
+## 📂 Project Structure
 Each example in this course follows a modular structure for clarity and learning:
 
 
@@ -61,7 +62,7 @@ lib/
 │       └── api_service.dart  # Handles API requests and logic
 └── ... (other examples )
 ```
-##🌐 APIs Used
+## 🌐 APIs Used
 Most examples utilize public free APIs for learning purposes.
 A common choice is:
 
