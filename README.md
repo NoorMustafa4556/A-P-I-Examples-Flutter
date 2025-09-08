@@ -37,17 +37,19 @@ Install dependencies:
 
    ```bash
    flutter pub get
+ ```
    Run the application:
-
- ```bash
+  
+  ```bash
 flutter run
+```
 Select your emulator/simulator or connect a physical device.
 
-📂 Project Structure
+##📂 Project Structure
 Each example in this course follows a modular structure for clarity and learning:
 
 
-
+```bash
 lib/
 ├── api_course_example/
 │   ├── main.dart             # Entry point of the Flutter app
@@ -57,7 +59,8 @@ lib/
 │   │   └── user_model.dart   # Dart class for parsing JSON response
 │   └── services/
 │       └── api_service.dart  # Handles API requests and logic
-└── ... (other examples if available)
+└── ... (other examples )
+```
 🌐 APIs Used
 Most examples utilize public free APIs for learning purposes.
 A common choice is:
