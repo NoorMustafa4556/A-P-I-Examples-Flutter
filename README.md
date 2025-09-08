@@ -36,7 +36,8 @@ Adjust the folder path if your desired example is inside a different subfolder.
 Install dependencies:
 
 bash
-Copy code
+
+
 flutter pub get
 Run the application:
 
