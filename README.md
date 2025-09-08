@@ -35,14 +35,11 @@ Adjust the folder path if your desired example is inside a different subfolder.
 
 Install dependencies:
 
-bash
+   ```bash
+   flutter pub get
+   Run the application:
 
-
-flutter pub get
-Run the application:
-
-bash
-Copy code
+ ```bash
 flutter run
 Select your emulator/simulator or connect a physical device.
 
